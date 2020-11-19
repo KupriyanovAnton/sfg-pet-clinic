@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner
 @SpringBootTest
 class SfgPetClinicApplicationTest {
     @Test
-    public void aswq(){
+    public void contextLoads(){
 
     }
 }
